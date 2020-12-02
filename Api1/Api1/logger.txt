@@ -1,0 +1,106 @@
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\OUT-Dutova2-OA\source\repos\Api1\Api1
+Processing request /weatherforecast
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\OUT-Dutova2-OA\source\repos\Api1\Api1
+Processing request /weatherforecast
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\OUT-Dutova2-OA\source\repos\Api1\Api1
+Processing request /weatherforecast
+Processing request /api/TodoItems/1
+Processing request /api/TodoItems/1
+Application startup exception
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\OUT-Dutova2-OA\source\repos\Api1\Api1
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\OUT-Dutova2-OA\source\repos\Api1\Api1
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\OUT-Dutova2-OA\source\repos\Api1\Api1
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\OUT-Dutova2-OA\source\repos\Api1\Api1
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\OUT-Dutova2-OA\source\repos\Api1\Api1
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\OUT-Dutova2-OA\source\repos\Api1\Api1
+Processing request /weatherforecast
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\OUT-Dutova2-OA\source\repos\Api1\Api1
+Processing request /weatherforecast
+Processing request /api/todoitems
+Processing request /api/todoitems
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\OUT-Dutova2-OA\source\repos\Api1\Api1
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\OUT-Dutova2-OA\source\repos\Api1\Api1
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\OUT-Dutova2-OA\source\repos\Api1\Api1
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\OUT-Dutova2-OA\source\repos\Api1\Api1
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\OUT-Dutova2-OA\source\repos\Api1\Api1
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\OUT-Dutova2-OA\source\repos\Api1\Api1
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\OUT-Dutova2-OA\source\repos\Api1\Api1
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\OUT-Dutova2-OA\source\repos\Api1\Api1
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\OUT-Dutova2-OA\source\repos\Api1\Api1
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\OUT-Dutova2-OA\source\repos\Api1\Api1
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\OUT-Dutova2-OA\source\repos\Api1\Api1
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Проекты\C Sharp\Программы\Скачанные\web-master\Api1\Api1
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Проекты\C Sharp\Программы\Скачанные\web-master\Api1\Api1
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Проекты\C Sharp\Программы\Скачанные\web-master\Api1\Api1
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Проекты\C Sharp\Программы\Скачанные\web-master\Api1\Api1
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Проекты\C Sharp\Программы\Скачанные\web-master\Api1\Api1
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Проекты\C Sharp\Программы\Скачанные\web-master\Api1\Api1
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Проекты\C Sharp\Программы\Скачанные\web-master\Api1\Api1
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Проекты\C Sharp\Программы\Скачанные\web-master\Api1\Api1
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Проекты\C Sharp\Программы\Скачанные\web-master\Api1\Api1
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Проекты\C Sharp\Программы\Скачанные\web-master\Api1\Api1
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\Проекты\C Sharp\Программы\Скачанные\web-master\Api1\Api1
